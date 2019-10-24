@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name nRF52811)(type Legacy)(uri ${KIPRJMOD}/nRF52811.lib)(options "")(descr ""))
+)
