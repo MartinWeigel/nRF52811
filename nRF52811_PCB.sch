@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:PCB-cache
+LIBS:nRF52811_PCB-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
